@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App] by Rishabh Amga(https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App] by Rishabh kumar(https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
